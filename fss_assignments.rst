@@ -9,19 +9,32 @@ Take a open file's pointer - traverse through the data structures upto the super
 Show the pwd of a bash terminal
 ===============================
 
+.. todo:: write this section.
 
 Print the superblock
 ====================
+
+.. todo:: write this section.
+
 
 
 Effect of opening a file
 ========================
 
+.. todo:: write this section.
+
+
 Print the inode
 ===============
 
+.. todo:: write this section.
+
+
 How is the data of a file stored in the RAM
 ===========================================
+
+.. todo:: write this section.
+
 
 Effect of writing a file
 ========================
