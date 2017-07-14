@@ -10,7 +10,6 @@ Welcome to Linux Kernel - Under the hood's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
     Introduction        <introduction_to_linux_kernel.rst>
     File Subsytem       <file_subsystem.rst>
     Process Subsystem   <process_subsystem.rst>
@@ -25,9 +24,6 @@ Welcome to Linux Kernel - Under the hood's documentation!
     Commands related to crash. <crash_commands.rst>
     Introduction to Crash <crash_introduction.rst>
     Crash another chapter <crash.rst>
-
-    
-
 
 Indices and tables
 ==================
